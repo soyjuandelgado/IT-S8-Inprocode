@@ -7,7 +7,8 @@
 
 ## FRONT
 
-- instalar primeng
+- [x] instalar eslint
+- [x] instalar primeng
 - instalar mapbox para front
 - instalar chartjs?
 - instalar FullCalendar?

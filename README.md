@@ -39,13 +39,13 @@ PENDIENTE
 
 PENDIENTE
 
-- HTML
-- SASS
-- Typescript
-- Angular
+- [x] HTML
+- [x] SASS
+- [x] Typescript
+- [x] Angular
 - [x] Eslint
-- Karma / Jasmine
-- Angular Material
+- [x] Karma / Jasmine
+- [x] PrimeNG
 - Firebase
 
 ## 📋Requisitos
