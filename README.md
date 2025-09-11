@@ -43,7 +43,7 @@ PENDIENTE
 - SASS
 - Typescript
 - Angular
-- Eslint
+- [x] Eslint
 - Karma / Jasmine
 - Angular Material
 - Firebase
