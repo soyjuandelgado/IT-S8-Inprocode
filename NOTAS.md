@@ -13,3 +13,7 @@
 - instalar chartjs?
 - instalar FullCalendar?
 - configurar vercel para ejecutar ambos proyectos
+- css
+  - fuentes
+  - colores
+- instalar playwright (se puede ejecutar ng e2e!)
