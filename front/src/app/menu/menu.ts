@@ -15,51 +15,23 @@ export class Menu implements OnInit{
         this.items = [
             {
                 label: 'Home',
-                icon: 'pi pi-home'
+                icon: 'pi pi-home',
+                routerLink: '/home'
             },
             {
                 label: 'Calendar',
-                icon: 'pi pi-calendar'
+                icon: 'pi pi-calendar',
+                routerLink: '/calendar'
             },
             {
                 label: 'Charts',
-                icon: 'pi pi-chart-bar'
+                icon: 'pi pi-chart-bar',
+                routerLink: '/chart'
             },
             {
                 label: 'Map',
-                icon: 'pi pi-map'
-            },
-            {
-                label: 'Projects',
-                icon: 'pi pi-search',
-                items: [
-                    {
-                        label: 'Components',
-                        icon: 'pi pi-bolt'
-                    },
-                    {
-                        label: 'Blocks',
-                        icon: 'pi pi-server'
-                    },
-                    {
-                        label: 'UI Kit',
-                        icon: 'pi pi-pencil'
-                    },
-                    {
-                        label: 'Templates',
-                        icon: 'pi pi-palette',
-                        items: [
-                            {
-                                label: 'Apollo',
-                                icon: 'pi pi-palette'
-                            },
-                            {
-                                label: 'Ultima',
-                                icon: 'pi pi-palette'
-                            }
-                        ]
-                    }
-                ]
+                icon: 'pi pi-map',
+                routerLink: '/map'
             },
         ]
     }      
