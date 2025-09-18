@@ -46,6 +46,9 @@ PENDIENTE
 - [x] Eslint
 - [x] Karma / Jasmine
 - [x] PrimeNG
+- [x] MapBox
+- [x] Chart.js
+- [x] FullCalendar
 - Firebase
 
 ## 📋Requisitos
